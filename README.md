@@ -1,4 +1,5 @@
 # Amqp10SessionExample
-Use nuget to install AMQPNetLite
+
+Requires AMQPNetLite
 
 https://www.nuget.org/packages/AMQPNetLite
